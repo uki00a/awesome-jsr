@@ -7,8 +7,8 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Packages](#packages)
-- [Related lists](#related-lists)
 - [Websites](#websites)
+- [Related lists](#related-lists)
 
 ## Articles
 
