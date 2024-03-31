@@ -8,6 +8,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 - [Tools](#tools)
 - [Packages](#packages)
 - [Related lists](#related-lists)
+- [Websites](#websites)
 
 ## Articles
 
@@ -22,6 +23,10 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 ## Packages
 
 - [esbuild-deno-loader](https://github.com/lucacasonato/esbuild_deno_loader) - Deno module resolution for `esbuild`.
+
+## Websites
+
+- [esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 
 ## Related lists
 
