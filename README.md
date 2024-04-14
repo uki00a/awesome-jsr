@@ -13,6 +13,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 ## Articles
 
 - [Introducing JSR - the JavaScript Registry](https://deno.com/blog/jsr_open_beta)
+- [How we built JSR](https://deno.com/blog/how-we-built-jsr)
 
 ## Tools
 
