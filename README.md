@@ -19,6 +19,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 ## Tools
 
 - [@david/publish-on-tag](https://github.com/dsherret/jsr-publish-on-tag) - Publishes a package to JSR with a version based on the current git tag.
+- [@deno/bump-workspaces](https://github.com/denoland/bump-workspaces) - A tool for releasing workspaces project in Deno.
 - [jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to make installing packages form jsr.io in node easy.
 - [Molt](https://github.com/hasundue/molt) - Update dependencies the Deno way.
 - [x-to-jsr](https://github.com/denoland/x-to-jsr) - A tool to help migrating a deno.land/x package to [jsr.io](https://jsr.io/).
