@@ -26,6 +26,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 
 ## Packages
 
+- [@cross](https://github.com/cross-org) - Cross-Runtime JavaScript Libraries.
 - [esbuild-deno-loader](https://github.com/lucacasonato/esbuild_deno_loader) - Deno module resolution for `esbuild`.
 
 ## Websites
