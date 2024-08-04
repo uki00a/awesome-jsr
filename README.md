@@ -15,6 +15,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 - [Introducing JSR - the JavaScript Registry](https://deno.com/blog/jsr_open_beta)
 - [How we built JSR](https://deno.com/blog/how-we-built-jsr)
 - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
+- [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 
 ## Tools
 
