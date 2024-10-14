@@ -21,6 +21,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 
 - [@david/publish-on-tag](https://github.com/dsherret/jsr-publish-on-tag) - Publishes a package to JSR with a version based on the current git tag.
 - [@deno/bump-workspaces](https://github.com/denoland/bump-workspaces) - A tool for releasing workspaces project in Deno.
+- [@deno/vite-plugin](https://github.com/denoland/deno-vite-plugin) - Vite plugin to enable Deno resolution inside vite.
 - [@ryoppippi/mirror-jsr-to-npm](https://github.com/ryoppippi/mirror-jsr-to-npm) - `mirror-jsr-to-npm` is a tool designed to mirror packages from JSR to npm.
 - [jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to make installing packages form jsr.io in node easy.
 - [Molt](https://github.com/hasundue/molt) - Update dependencies the Deno way.
