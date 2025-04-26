@@ -17,6 +17,12 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 - [Introducing the JSR open governance board](https://deno.com/blog/jsr-open-governance-board)
+- [Add JSR packages with pnpm and Yarn](https://deno.com/blog/add-jsr-with-pnpm-yarn)
+
+## Package managers
+
+- [pnpm](https://github.com/pnpm/pnpm) - Support for JSR packages has been introduced in [v10.9.0](https://github.com/pnpm/pnpm/releases/tag/v10.9.0).
+- [Yarn](https://github.com/yarnpkg/berry) - Support for JSR packages has been introduced in [v4.9.0](https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F4.9.0).
 
 ## Tools
 
