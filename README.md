@@ -23,6 +23,7 @@ A curated list of awesome things related to [JSR](https://jsr.io/)
 
 - [pnpm](https://github.com/pnpm/pnpm) - Support for JSR packages has been introduced in [v10.9.0](https://github.com/pnpm/pnpm/releases/tag/v10.9.0).
 - [Yarn](https://github.com/yarnpkg/berry) - Support for JSR packages has been introduced in [v4.9.0](https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F4.9.0).
+- [vlt](https://github.com/vltpkg/vltpkg) - [Introducing `jsr:` Support](https://blog.vlt.sh/blog/jsr-support)
 
 ## Tools
 
